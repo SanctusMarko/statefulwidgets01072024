@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'aufgabe1.dart'; // Import the widgets.dart file
+import 'aufgabe1.dart';
 
 class Aufgabe2Screen extends StatelessWidget {
   const Aufgabe2Screen({super.key});
